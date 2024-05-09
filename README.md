@@ -15,7 +15,6 @@ The full app is split into 3 services:
 * The backend (called molo). 
 * Tensorflow Serving (Available only when running with Docker-compose) and is predominately used in development.
 
-Currently, the production version of this application is hosted on GCP Cloud Run and can be found at [here](https://samsung-oct-frontend-ckxu3m5cka-uc.a.run.app/)
 There are two models that can be used in production, either the full model and the TF Lite model, which is the quantized
 version of the full model and occupies 10x less space in memory.
 

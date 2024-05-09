@@ -61,7 +61,7 @@ You should be done and ready to run our app locally with docker-compose!
 ### Running with Docker
 
 The good news is that this repo comes with a `docker-compose` file, which you can use to run the entire app on any machine with Docker installed.
-(To install Docker click [here](https://docs.docker.com/get-docker/)
+To install Docker click [here](https://docs.docker.com/get-docker/) 
 
 Once you have Docker installed, clone this repo 
 
